@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Byte</string>
+    <string name="title">Login</string>
+    <string name="titleuser">Usuario</string>
+    <string name="username">Usuario</string>
+    <string name="titlepass">Contraseña</string>
+    <string name="password">Contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnRegistro">Regístrarse</string>
+</resources>
